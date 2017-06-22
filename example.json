@@ -1,25 +1,25 @@
-{
-  "repositories": [
-    {
-      "type": "repo",
-      "username": "django",
-      "name": "django",
-      "owner": "django",
-      "url": "https://github.com/django/django",
-
+{  
+  "repositories":[  
+    {  
+      "type":"repo",
+      "username":"django",
+      "name":"django",
+      "owner":"django",
+      "url":"https://github.com/django/django"
     },
-    {
-      "type": "repo",
-      "username": "akulakov",
-      "name": "django",
-      "owner": "akulakov",
-      "url": "https://github.com/akulakov/django",
+    {  
+      "type":"repo",
+      "username":"akulakov",
+      "name":"django",
+      "owner":"akulakov",
+      "url":"https://github.com/akulakov/django"
     },
-    {
-      "type": "repo",
-      "username": "AndrewIngram",
-      "name": "django-extra-views",
-      "owner": "AndrewIngram",
-      "url": "https://github.com/AndrewIngram/django-extra-views",
-    }]
+    {  
+      "type":"repo",
+      "username":"AndrewIngram",
+      "name":"django-extra-views",
+      "owner":"AndrewIngram",
+      "url":"https://github.com/AndrewIngram/django-extra-views"
+    }
+  ]
 }
