@@ -1,0 +1,16 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.outside {
+    height: 150px;
+}
+
+.youtube-header {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.youtube-img {
+    margin: 0 auto;
+}
